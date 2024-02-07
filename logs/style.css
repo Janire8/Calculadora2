@@ -1,0 +1,8 @@
+table{
+	width: 100%;
+	border: solid rgb(62, 121, 231);
+	background-color: rgb(161, 212, 235);
+}
+td{
+	text-align: center;
+}
